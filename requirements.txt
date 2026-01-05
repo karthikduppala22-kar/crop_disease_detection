@@ -1,4 +1,5 @@
 tensorflow==2.10.1
 numpy==1.23.5
 pillow
-streamlit==1.25.0
+protobuf==3.19.6
+streamlit==1.22.0
